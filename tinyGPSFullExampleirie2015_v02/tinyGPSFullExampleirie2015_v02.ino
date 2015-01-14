@@ -7,7 +7,7 @@
 #define LIGHTUP_HOUR 8  //time use by UTC. 8 is 17 in JST
 #define LIGHTUP_MIN 0
 #define LIGHTDN_HOUR 13  //time use by UTC. 13 is 22 in JST
-#define LIGHTDN_MIN 0
+#define LIGHTDN_MIN 00
 
 #define ONDAY_def  3 // 0　is Sunday, therefore 3 is Wednesday,
 #define ON_HOUR 5l   //5l is 5 hours  It's lightingn time 
